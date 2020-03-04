@@ -1,0 +1,3 @@
+[submodule "submoduletester"]
+	path = submoduletester
+	url = git@github.com:amyjbaer/submoduletester.git
